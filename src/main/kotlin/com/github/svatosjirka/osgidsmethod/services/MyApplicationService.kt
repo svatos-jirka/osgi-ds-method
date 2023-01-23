@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.svatosjirka.osgidsmethod.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.svatosjirka.osgidsmethod.MyBundle
 
 class MyApplicationService {
 
